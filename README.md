@@ -1,4 +1,4 @@
-# Zapotec-App
+# zapotec-app
 The mission of Zapotec-App is to teach Zapotec as spoken in Asuncion Ocotlan de Morelos Oaxaca, its a variation of Zapotec closely related to the Valles-Centrales. Zapotec is mainly a spoken language and the goal is to keep the language alive because with new generation of newboarns, most gravitate towards speaking spanish. Zapotec is a dying language and this app is intended to keep the language alive.
 The Zapotec (English: /ˈzæpətɛk/)[3] languages are a group of closely related indigenous Mesoamerican languages that constitute a main branch of the Oto-Manguean language family and which is spoken by the Zapotec people from the southwestern-central highlands of Mexico. The 2010 Mexican census reports 425,000 speakers,[4] with the majority inhabiting the state of Oaxaca. Zapotec-speaking communities are also found in the neighboring states of Puebla, Veracruz, Guerrero and Baja California. Labor migration has also brought a number of native Zapotec-speakers to the United States, particularly in California and Bridgeton, New Jersey. Most Zapotec speaking communities are highly bilingual in Spanish. Reference Wikipedia
 
